@@ -10,4 +10,4 @@ b = 5
      c = a+b
      return (c)
 
-print ("Fun is not currect")
+print ("result")
